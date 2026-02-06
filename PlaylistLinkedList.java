@@ -7,7 +7,7 @@ public class PlaylistLinkedList implements PlaylistInterface {
 
         Node(Song song) {
             this.song = song; // Initialize song in the node
-            this.next = null;  // Initialize next node as null
+            this.next = null; // Initialize next node as null
         }
     }
 
@@ -223,3 +223,4 @@ public class PlaylistLinkedList implements PlaylistInterface {
         return recentlyPlayed;  // Return the recently played queue
     }
 }
+
