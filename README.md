@@ -1,2 +1,2 @@
 # Playlist-Manager
-Battleship game in C developed incrementally from single-player to multiplayer
+a CLI program to add, shuffle, sort, search, and track songs using custom ArrayList, LinkedList, and queue implementations.
